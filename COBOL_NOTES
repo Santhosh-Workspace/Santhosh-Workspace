@@ -1,0 +1,7 @@
+COBOL NOTES:
+
+Divisions:
+1. Identification Division
+2. Environment Division
+3. Data Division
+4. Procedure Division
